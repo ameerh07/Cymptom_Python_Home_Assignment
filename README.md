@@ -3,4 +3,4 @@
 2. run "pip install -r requirements.txt" from project's folder in cmd
 3. enter your aws credentials in main.py
 4. run main.py
-5. the results will see in chk.txt in project's folder
+5. the results will be in chk.txt in project's folder
